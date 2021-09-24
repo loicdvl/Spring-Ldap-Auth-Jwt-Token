@@ -126,11 +126,6 @@
 			<artifactId>spring-ldap-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-                <groupId>org.zalando</groupId>
-                <artifactId>problem-spring-web</artifactId>
-                <version>${problem-spring.version}</version>
-            </dependency>
 	</dependencies>
 
 	<build>
